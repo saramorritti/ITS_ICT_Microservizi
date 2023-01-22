@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  bookmicroservice:
+    image: ${DOCKER_REGISTRY-}bookmicroservice
+    build:
+      context: .
+      dockerfile: BookMicroservice\Dockerfile

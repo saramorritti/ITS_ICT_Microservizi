@@ -1,0 +1,19 @@
+Install-Package AutoMapper.Collection -Version 9.0.0
+Install-Package AutoMapper.Extensions.ExpressionMapping -Version 6.0.2
+Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection -Version 12.0.0
+Install-Package Microsoft.AspNetCore.Identity.EntityFrameworkCore -Version 5.0.17
+Install-Package Microsoft.EntityFrameworkCore -Version 5.0.17
+Install-Package Microsoft.EntityFrameworkCore.Design -Version 5.0.17
+Install-Package Microsoft.EntityFrameworkCore.Sqlite -Version 5.0.17
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 5.0.17
+Install-Package Microsoft.EntityFrameworkCore.Tools -Version 5.0.17
+Install-Package Microsoft.Extensions.Hosting -Version 3.1.32
+Install-Package Microsoft.VisualStudio.Azure.Containers.Tools.Targets -Version 1.11.1
+Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design -Version 3.1.5
+Install-Package Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore -Version 3.1.5
+Install-Package Swashbuckle.AspNetCore.Swagger -Version 6.4.0
+Install-Package Swashbuckle.AspNetCore.SwaggerGen -Version 6.4.0
+Install-Package System.Windows.Extensions -Version 6.0.0
+
+
+

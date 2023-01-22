@@ -1,0 +1,35 @@
+name: dockercompose17074076325948816299
+services:
+  bookmicroservice:
+    build:
+      context: C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BookMicroservice
+      dockerfile: BookMicroservice\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: bookmicroservice
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 443
+      protocol: tcp
+    volumes:
+    - type: bind
+      source: C:\Users\MMorr\AppData\Roaming/Microsoft/UserSecrets
+      target: C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\MMorr\AppData\Roaming/ASP.NET/Https
+      target: C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose17074076325948816299_default

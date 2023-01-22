@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>7ee0f50d-ca45-4e0c-8a9f-d364b538893f</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Collection" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.ExpressionMapping" Version="6.0.2" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FakeItEasy" Version="7.3.1" />
+    <PackageReference Include="FluentAssertions" Version="6.9.0" />
+    <PackageReference Include="log4net" Version="2.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.17">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.32" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.4.0" />
+    <PackageReference Include="System.Windows.Extensions" Version="6.0.0" />
+  </ItemGroup>
+
+
+</Project>

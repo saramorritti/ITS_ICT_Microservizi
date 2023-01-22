@@ -1,0 +1,543 @@
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.exe
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.deps.json
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.runtimeconfig.json
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.runtimeconfig.dev.json
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.pdb
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.AssemblyReference.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.AssemblyInfoInputs.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.AssemblyInfo.cs
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.CoreCompileInputs.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.MvcApplicationPartsAssemblyInfo.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\BorrowingMicroservice.StaticWebAssets.Manifest.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\BorrowingMicroservice.StaticWebAssets.xml
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\BorrowingMicroservice.styles.css
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.RazorTargetAssemblyInfo.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.CopyComplete
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.pdb
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.genruntimeconfig.cache
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.MvcApplicationPartsAssemblyInfo.cs
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+Z:\Nuova cartella\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.StaticWebAssets.xml
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.exe
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.deps.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.runtimeconfig.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.runtimeconfig.dev.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.AssemblyReference.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.AssemblyInfoInputs.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.AssemblyInfo.cs
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\BorrowingMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.CopyComplete
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.genruntimeconfig.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.AssemblyInfoInputs.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.AssemblyInfo.cs
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.StaticWebAssets.xml
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.exe
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.deps.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.runtimeconfig.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.runtimeconfig.dev.json
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\BorrowingMicroservice.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\BorrowingMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.CopyComplete
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.genruntimeconfig.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\obj\Debug\netcoreapp3.1\BorrowingMicroservice.csproj.AssemblyReference.cache
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\FakeItEasy.dll
+C:\Users\MMorr\OneDrive\Desktop\Microservices\Microservices2\BorrowingMicroservice\BorrowingMicroservice\bin\Debug\netcoreapp3.1\FluentAssertions.dll
